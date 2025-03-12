@@ -24,32 +24,33 @@ Player (Abstract Class):
 Represents a player in the game.
 Stores the player's symbol (X or O).
 Defines the abstract method makeMove(Grid grid).
+
 Human (Extends Player):
-
 Handles user input for making moves.
+
 AI (Extends Player):
-
 Randomly selects an empty cell to make a move.
-Cell:
 
+Cell:
 Represents a single grid cell.
 Stores the symbol (X, O, or empty).
-Grid:
 
+Grid:
 Manages the 3×3 game board.
 Handles symbol placement and checks cell availability.
-GameLogic:
 
+GameLogic:
 Controls the game flow.
 Handles turn-based gameplay, win checking, and restarting the game.
+
 How to Play
 Choose to play against an AI or another Human.
 Player 1 selects their symbol (X or O).
 Enter your move using A1, B2, C3 format.
 The game will alternate turns and check for a winner.
 Play again or exit after a game ends.
-Example Gameplay
 
+Example Gameplay
 Do you want to play against AI or another player? (AI/Player): AI
 Player 1, choose your symbol (X or O): X
 
