@@ -18,7 +18,7 @@ javac tictactoe/*.java
 Run the game:
 java tictactoe.GameLogic
 
-Class Summary
+Class Summary:
 
 Player (Abstract Class):
 Represents a player in the game.
