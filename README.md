@@ -7,11 +7,6 @@ AI plays automatically using random moves.
 Input format: A1, B2, C3 (Grid-based selection).
 Detects win conditions and declares the winner.
 
-Installation
-Clone the repository:
-git clone https://github.com/Aboulmich6/tic-tac-toe-java.git
-cd tic-tac-toe-java
-
 Compile the Java files:
 javac tictactoe/*.java
 
