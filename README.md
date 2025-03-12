@@ -9,7 +9,7 @@ Detects win conditions and declares the winner.
 
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/tic-tac-toe-java.git
+git clone https://github.com/Aboulmich6/tic-tac-toe-java.git
 cd tic-tac-toe-java
 
 Compile the Java files:
